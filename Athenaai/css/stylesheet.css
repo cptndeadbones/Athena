@@ -1,0 +1,42 @@
+:root {
+    --bg: #222222;
+}
+
+body {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height:100vh;
+    background: var(--bg);
+}
+
+.athenatitle{
+    text-align:center;
+    color:#ffffff;
+    font-family: 'Cinzel', serif;
+    font-size:4rem;
+    text-shadow:7px 7px 10px #666666;
+}
+
+ul {
+    position:relative;
+    display:flex;
+    gap:50px;
+}
+
+ul li {
+    position:relative;
+    list-style:none;
+    width: 80px;
+    height: 80px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.clock{
+    color:orange;
+}
