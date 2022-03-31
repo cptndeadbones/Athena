@@ -1,0 +1,70 @@
+{
+  "athenaPass": [
+    {
+      //Facebook
+      "website": "https://www.facebook.com/",
+      "username": "alexjproksch@gmail.com",
+      "pass": "TerribleTerribleDamage"
+    },
+
+    {
+      //Instagram
+      "website": "https://www.instagram.com/cptndeadbones/",
+      "username": "cptndeadbones",
+      "pass": "68902453"
+    },
+
+    {
+      //Wp engine
+      "website": "https://identity.wpengine.com/",
+      "username": "alexjproksch@gmail.com",
+      "pass": "Vegasvelocity!20"
+    },
+
+    {
+      //Paypal
+      "website": "https://www.paypal.com/us/signin",
+      "username": "eighthtentacle@gmail.com",
+      "pass": "Whorunbartertown1"
+    },
+
+    {
+      // Amazon
+      "website": "https://www.amazon.com/ap/signin?ie=UTF8&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&switch_account=auth_prompt&ignoreAuthState=1&openid.identity=https%3A%2F%2Fwww.amazon.com%2Fap%2Fid%2Famzn1.account.AGBZWYCLP3PCBBHRXEBNC2ZRZDLA&openid.claimed_id=https%3A%2F%2Fwww.amazon.com%2Fap%2Fid%2Famzn1.account.AGBZWYCLP3PCBBHRXEBNC2ZRZDLA",
+      "username": "kelliengland1@gmail.com",
+      "pass": ""
+    },
+
+    {
+      // Don the Plumber
+      "website": "",
+      "username": "",
+      "pass": ""
+    },
+
+    {
+      // RR Backhoe
+      "website": "",
+      "username": "",
+      "pass": ""
+    },
+    {
+      // Office By Proxy
+      "website": "",
+      "username": "",
+      "pass": ""
+    },
+    {
+      // gmail
+      "website": "",
+      "username": "",
+      "pass": ""
+    },
+    {
+      // 
+      "website": "",
+      "username": "",
+      "pass": ""
+    }
+  ]
+}

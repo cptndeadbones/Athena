@@ -15,7 +15,7 @@ body {
     text-align:center;
     color:#ffffff;
     font-family: 'Cinzel', serif;
-    font-size:4rem;
+    font-size:6rem;
     text-shadow:7px 7px 10px #666666;
 }
 
@@ -37,6 +37,56 @@ ul li {
     transition: 0.5s;
 }
 
-.clock{
-    color:orange;
+.clock {
+    color:#FFB919;
+    font-size:3em;
+}
+
+.clock:hover {
+    font-size:4em;
+}
+
+.password {
+    color:greenyellow;
+    font-size:3em;
+}
+
+.password:hover {
+    font-size:4em;
+}
+
+.weather {
+    color: #0044FF;
+    font-size:3em;
+}
+
+.weather:hover {
+    font-size:4em;
+}
+
+.reminders {
+    font-size:3em;
+    color: whitesmoke; 
+}
+
+.reminders:hover {
+    font-size:4em;
+}
+
+.vehicle {
+    font-size:3em;
+    color: #E00093; 
+}
+
+.vehicle:hover {
+    font-size:4em;
+}
+
+.controls {
+    font-size:3em;
+    color:red;
+}
+
+.controls:hover {
+    font-size:4em;
 }
