@@ -11,10 +11,17 @@ body {
     background: var(--bg);
 }
 
+.athenatitle:hover{
+    font-size: 7rem;
+    transition:font-size 2s;
+
+}
+
 .athenatitle{
     text-align:center;
     color:#ffffff;
     font-family: 'Cinzel', serif;
+    transition:2s;
     font-size:6rem;
     text-shadow:7px 7px 10px #666666;
 }
